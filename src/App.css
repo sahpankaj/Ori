@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+header{
+  background-color: rgba(20, 20, 20, 0.932);
+  color:white;
+  padding:0px 0px 10px;
+  margin-bottom: 20px;
+  position: fixed;
+  width:100vw;
+  
+}
+
+h1 {
+  margin-bottom: 10px;
+}
+
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+  cursor: pointer;
+}
+
+p {
+  margin: 10px;
+}
+
+
+input{
+  width:50%;
+  height: 25px;
+  padding:"3px";
+
+}
